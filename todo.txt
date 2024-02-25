@@ -1,8 +1,0 @@
-1) How you create react app (done)
-2) how you create components in react app (done)
-3) how you convert static to dynamic component or
-	how you create dynamic component (done)
-4) how you change rendered property of class or (Done)
-	how you change something on DOM at event. (Done)
-5) Assignment : change motto at button click
-6) Assignemnt : slogan and motto should be cyclic whenver button click occured next to prev, and vice versa 
