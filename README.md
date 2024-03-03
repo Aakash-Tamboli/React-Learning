@@ -9,6 +9,7 @@ React is powerfull javascript font-end framework, which is developed by facebook
 ### Learning Week By Week
 [Week-1](/weeks/week-1.md)
 [Week-2](/weeks/week-2.md)
+[Week-3](/weeks/week-3.md)
 
 ### Tools I've used to develop
 - React Framework
